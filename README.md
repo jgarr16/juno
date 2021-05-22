@@ -1,1 +1,3 @@
 # juno
+
+This is a test repo for my iOS application. Probably not very interesting...
